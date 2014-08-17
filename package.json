@@ -1,0 +1,17 @@
+{
+  "name": "SC_base",
+  "version": "1.0.0",
+  "description": "Base styles for any SC_ module",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bensmithett/SC_base.git"
+  },
+  "devDependencies": {
+    "normalize.css": "^3.0.1",
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.3.4"
+  },
+  "scripts": {
+    "build": "./node_modules/.bin/gulp"
+  }
+}

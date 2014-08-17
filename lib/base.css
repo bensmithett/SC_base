@@ -1,0 +1,22 @@
+/*
+These are the base styles for ALL apps that use SC_ components
+Changing them could break components that depend on this version!
+*/
+
+html {
+  box-sizing: border-box;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  height: 100%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #fff;
+  height: 100%;
+  margin: 0;
+}
