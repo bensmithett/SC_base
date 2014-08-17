@@ -1,6 +1,7 @@
 {
   "name": "SC_base",
   "version": "1.0.0",
+  "private": true,
   "description": "Base styles for any SC_ module",
   "repository": {
     "type": "git",
